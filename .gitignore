@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Generated rejected files
+Rejected_Records_*.csv
+
+# Optional: ignore VS Code settings
+.vscode/
+
+ReadCSV.py
