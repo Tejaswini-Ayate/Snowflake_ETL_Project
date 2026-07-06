@@ -7,6 +7,7 @@ import logging
 from datetime import datetime
 
 # Environment test
+# Verify DEV deployment
 
 logging.basicConfig(
     filename=LOG_FILE,
