@@ -6,7 +6,7 @@ import pandas as pd
 import logging
 from datetime import datetime
 
-
+# verify prod deployment
 logging.basicConfig(
     filename=LOG_FILE,
     level=logging.INFO,
